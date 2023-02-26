@@ -6,4 +6,4 @@ and I am currently seeking employment as a UI/UX designer.
 
 Email: jonahvenglarcik@gmail.com
 
-Website/Portfolio: [smumbo.github.io](Smumbo.github.io)
+Website/Portfolio: [Smumbo.github.io](https://smumbo.github.io)
