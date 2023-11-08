@@ -5,5 +5,4 @@ I graduated from the University of Arizona in 2022 with a Bachelor of Science in
 and I am currently seeking employment in UX design and software engineering.
 
 Email: jonahvenglarcik@gmail.com
-
-Website/Portfolio: [smumbo.github.io](https://smumbo.github.io)
+Portfolio: [smumbo.super.site](https://smumbo.super.site)
